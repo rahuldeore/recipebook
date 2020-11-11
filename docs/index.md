@@ -1,7 +1,11 @@
+layout: page
+title: "./recipebook"
+permalink: /recipebook/
+
 ---
+swagger: "2.0"
 info:
-  description: "This is the recipe application API, called as recipebook. The recipebook support the following 
-  operations and is backed by mongodb on localhost on 27017"
+  description: "This is the recipe application API, called as recipebook. The recipebook support the following operations and is backed by mongodb on localhost on 27017"
   version: "1.0.0"
   title: "Arpita's Recipebook"
   contact:

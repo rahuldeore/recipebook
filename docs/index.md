@@ -1,4 +1,4 @@
-#./recipebook
+# ./recipebook
 
 ```
 swagger: "2.0"

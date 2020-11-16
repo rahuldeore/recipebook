@@ -1,8 +1,6 @@
-layout: page
-title: "./recipebook"
-permalink: /recipebook/
+#./recipebook
 
----
+```
 swagger: "2.0"
 info:
   description: "This is the recipe application API, called as recipebook. The recipebook support the following operations and is backed by mongodb on localhost on 27017"
@@ -159,4 +157,4 @@ definitions:
         type: "string"
       message:
         type: "string"
----
+```
